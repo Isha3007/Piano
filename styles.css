@@ -135,3 +135,8 @@ body {
         margin: 0 -20px 0 -20px;
     }
 }
+
+.pressed{
+    box-shadow: 0 4px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
